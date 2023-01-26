@@ -19,7 +19,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/irynakharko/Checklists.git)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/irynakharko/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
