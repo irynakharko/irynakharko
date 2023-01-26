@@ -3,16 +3,6 @@
 ## My CV
 [Link to my CV]()
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Как просить пересмотр зарплаты? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=5sMR7e6mS4U)
-- [Что делать, если на проекте нет требований? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=QW6hM-vDLxw)
-- [Баги и дефекты это не KPI #войтивайти #тестировщикснуля #shorts](https://www.youtube.com/watch?v=Ig2HXBROEL8)
-- [Есть ли в айти эйджизм или дискриминация по возрасту? #тестировщикснуля #войтивайти #shorts](https://www.youtube.com/watch?v=xdGvOsFADmw)
-- [КАК НАЙТИ РАБОТУ ТЕСТИРОВЩИКОМ В 2023? #shorts #войтивайти #тестировщикснуля](https://www.youtube.com/watch?v=faNH4LUALbg)
-<!-- YOUTUBE:END -->
-
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
