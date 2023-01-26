@@ -21,7 +21,7 @@
 - [Checklists](https://github.com/irynakharko/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/irynakharko/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/irynakharko/Bug-reports.git)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/irynakharko/SQL-Queries.git)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
