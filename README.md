@@ -1,4 +1,4 @@
-[![Header](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)]
+![Header](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV]()
