@@ -22,7 +22,7 @@
 - [Test-Suites and Test-Cases](https://github.com/irynakharko/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/irynakharko/Bug-reports.git)
 - [SQL Queries](https://github.com/irynakharko/SQL-Queries.git)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/irynakharko/Postman-Collections.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
